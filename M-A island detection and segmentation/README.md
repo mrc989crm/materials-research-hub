@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/95081818/155694682-66596058-45d0-4e76-b51c-e3be46fc978c.png" width=40%>
 
-This repository contains jupyter notebooks for (i) classifying electron microscopy images of bainitic steels, (ii) training costumized models of the detection and segmentation library [detectron2](https://github.com/facebookresearch/detectron2) and (iii) testing them. The models are trained to identify and segment Martensite-Austenite (M-A) islands in scanning electron microscopy images of a bainitic steel after various cooling strategies. The resulting microstructures show distinct characteristics seperated into sub-datasets I,II and III. On each sub-dataset, models were trained and tested.  
+This repository contains jupyter notebooks for (i) classifying electron microscopy images of bainitic steels, (ii) training costumized models of the detection and segmentation library [detectron2](https://github.com/facebookresearch/detectron2) and (iii) testing them. The models are trained to identify and segment Martensite-Austenite (M-A) islands in scanning electron microscopy images of a bainitic steel after various cooling strategies. The resulting microstructures show distinct characteristics seperated into sub-datasets I,II and III. Model I, model II and model III denote models trained and tested on these sub-datasets. 
 
 <img width="500" alt="Screenshot 2022-02-24 111803" src="https://user-images.githubusercontent.com/95081818/155505240-80a75f7c-11fe-46a0-9a32-f57d90784ddc.png">
 
