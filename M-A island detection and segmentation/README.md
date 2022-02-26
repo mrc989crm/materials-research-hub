@@ -7,6 +7,7 @@ Furthermore, our notebooks provide customized code on:
 - merging datasets
 - hyperparameter optimization
 - feature calculation (e.g. area, aspect ratio, direction, etc.) of segmented M-A islands
+- exporting features as CSV file
 
 <img width="500" alt="Screenshot 2022-02-24 111803" src="https://user-images.githubusercontent.com/95081818/155505240-80a75f7c-11fe-46a0-9a32-f57d90784ddc.png">
 
