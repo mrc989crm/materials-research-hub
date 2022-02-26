@@ -4,7 +4,7 @@ This repository contains jupyter notebooks for (i) classifying electron microsco
 
 <img width="500" alt="Screenshot 2022-02-24 111803" src="https://user-images.githubusercontent.com/95081818/155505240-80a75f7c-11fe-46a0-9a32-f57d90784ddc.png">
 
-trainedmodels.md provides further information how to get trained segmentation models.
+trained-models.md provides further information how to get trained segmentation models.
 
 Image data and labels are available in figshare:
 https://figshare.com/articles/dataset/Image_data_and_labels/19232523
