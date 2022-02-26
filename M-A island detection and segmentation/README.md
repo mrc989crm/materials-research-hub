@@ -4,7 +4,7 @@ This repository contains jupyter notebooks for (i) classifying electron microsco
 
 ![example image with labels](https://user-images.githubusercontent.com/95081818/155694682-66596058-45d0-4e76-b51c-e3be46fc978c.png)
 
-<img src="https://user-images.githubusercontent.com/link-to-your-image.png" width=50%>
+<img src="https://user-images.githubusercontent.com/95081818/155694682-66596058-45d0-4e76-b51c-e3be46fc978c.png" width=50%>
 
 ![schema git_resize](https://user-images.githubusercontent.com/95081818/155836175-913b6c48-4165-416a-aadd-1903419d8161.png)
 
