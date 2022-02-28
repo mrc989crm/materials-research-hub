@@ -1,3 +1,4 @@
+# M-A island detection and segmentation
 <img src="https://user-images.githubusercontent.com/95081818/155694682-66596058-45d0-4e76-b51c-e3be46fc978c.png" width=40%>
 
 This repository contains jupyter notebooks for (i) classifying electron microscopy images of bainitic steels, (ii) training costumized models of the detection and segmentation library [detectron2](https://github.com/facebookresearch/detectron2) and (iii) testing them. The models were trained on Google Colab to identify and segment Martensite-Austenite (M-A) islands in scanning electron microscopy images of a bainitic steel after various cooling strategies. The resulting microstructures show distinct characteristics seperated into sub-datasets I,II and III. Model I, model II and model III denote models trained and tested on these sub-datasets. The original reference size of the images (1536x2048) was cropped into specific sizes (64x,128x,256,512x,768x).
