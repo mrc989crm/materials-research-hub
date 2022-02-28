@@ -17,6 +17,8 @@ trained-models.md provides further information how to get trained segmentation m
 Image data and labels are available in figshare:
 https://figshare.com/articles/dataset/Image_data_and_labels/19232523
 
+The trained classifier including images for training and testing can be found [here](https://figshare.com/articles/dataset/Classification_of_bainitic_microstructures_in_electron_microscopy_images/19242903).
+
 Training and testing of models followed the following structure in drive: <br />
 ![schema git_resize](https://user-images.githubusercontent.com/95081818/155836175-913b6c48-4165-416a-aadd-1903419d8161.png) <br />
 Images in 'im_train' and 'im_val', labels (train.json, val.json) in 'label' and models in the output folder should match with the corresponding cropping size (1536x,768x,512x,256x,128x,64x) and the sub-dataset number (i,ii,iii) which are associated with specific cooling regime of the steel.
