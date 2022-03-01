@@ -22,5 +22,5 @@ The trained classifier including images for training and testing can be found [h
 
 Training and testing of models followed the following structure in drive: <br />
 ![schema git_resize](https://user-images.githubusercontent.com/95081818/155836175-913b6c48-4165-416a-aadd-1903419d8161.png) <br />
-Images in 'im_train' and 'im_val', labels (train.json, val.json) in 'label' and models in the output folder should match with the corresponding cropping size (1536x,768x,512x,256x,128x,64x) and the sub-dataset number (i,ii,iii) which are associated with specific cooling regime of the steel.
+Images in 'im_train' and 'im_val', labels (train.json, val.json) in 'label' and models in the output folder should match with the corresponding cropping size (1536x,768x,512x,256x,128x,64x) and the sub-dataset number (i,ii,iii) which are associated with specific cooling regimes of the steel.
 
